@@ -3,7 +3,7 @@
 ()=>{
 👋 I'm interested In Web Applications and Computer Science
 <br>
-👀 Getting Structured with Data Structure and Algorithm
+👀 Getting Structured with Data Structure and Algorithms
 <br>
 🌱 I'm currently learning Components Based UI
 <br>
