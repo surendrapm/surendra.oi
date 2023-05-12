@@ -7,7 +7,7 @@
 <br>
 🌱 I'm currently learning Components Based UI
 <br>
-💞️ I'm looking to collaborate on MERN Applications
+💞️ I'm looking to collaborate on MERN Applications and UI
 <br>
 📫 How to reach me:
    - Email: suredon456@gmail.com
