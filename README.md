@@ -1,6 +1,6 @@
-# FUNCTION ಸುರೇಂದ್ರ()=>{ Hello I'm  SURENDRA :) }
+ Hello I'm  SURENDRA :) 
 
-ReadME{
+()=>{
 👋 I'm interested In Web Applications and Computer Science
 <br>
 👀 Getting Structured with Data Structure and Algorithm
@@ -11,4 +11,4 @@ ReadME{
 <br>
 📫 How to reach me:
    - Email: suredon456@gmail.com
-}
+}()
